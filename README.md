@@ -56,9 +56,10 @@ On the domain controller, re-enable the account. As the client, test logging in 
 
 Login as the admin to get to the Microsoft Management Console.
 
-![mstsc_bYLuPEopVr](https://github.com/user-attachments/assets/5a3e92e4-e67f-4eaf-8391-2a37887a81e0)
+![mstsc_C39VIl1XWR](https://github.com/user-attachments/assets/d5ba8b4a-73ae-4085-b326-6319888c420c)
 
 In the Event Viewer navigate to Seurity and observe Audit failures and successes.
 
-![mstsc_C39VIl1XWR](https://github.com/user-attachments/assets/d5ba8b4a-73ae-4085-b326-6319888c420c)
+![mstsc_bYLuPEopVr](https://github.com/user-attachments/assets/5a3e92e4-e67f-4eaf-8391-2a37887a81e0)
+
 
