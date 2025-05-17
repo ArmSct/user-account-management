@@ -44,7 +44,7 @@ In ADUC, right-click the user account and disable their account.
 
 ![mstsc_GTFT05qLMg](https://github.com/user-attachments/assets/0e5400a0-88e0-4139-8d56-3f19b6cb257f)
 
-Attempt to log in from the client. You will receive an error ("The login attempt failed") indicating the account is disabled. 
+Attempt to log in from the client. You will receive an error ("The logon attempt failed") indicating the account is disabled. 
 
 ![CredentialUIBroker_8HGEd1AjBN](https://github.com/user-attachments/assets/f2ad3949-7f54-48fa-9c66-8f4eb0a4ac24)
 
