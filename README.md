@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/2fced9ae-65ae-43cb-ac57-4ef860fdfe27)
 
 # Managing User Accounts in Active Directory
 This project demonstrates configuring Group Policy to enforce lockout thresholds, triggering account lockouts through failed login attempts, unlocking and resetting accounts, enabling/disabling users, and reviewing event logs on both the domain controller and client machine. A domain controller (DC-1) and client (Client-1) virtual machine are pre-configured for this lab.
