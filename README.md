@@ -52,8 +52,6 @@ On the domain controller, re-enable the account. As the client, test logging in 
 
 ![mstsc_pWMZJeljXs](https://github.com/user-attachments/assets/7d379169-ef9c-4a7c-b0e9-5f341b95512c)
 
-![Uploading mstsc_1tEAKj7tVF.png…]()
-
 ### Observing Logs
 
 Login as the admin to get to the Microsoft Management Console.
