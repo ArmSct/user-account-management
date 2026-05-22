@@ -10,7 +10,7 @@ This project demonstrates configuring Group Policy to enforce lockout thresholds
 - Active Directory
 - Group Policy Management
 - Event Viewer
-- Remote Desktop (RDP)
+- Remote Desktop (RDP) 
 
 ## Actions and Observations
 
