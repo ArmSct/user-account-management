@@ -5,7 +5,7 @@ This project demonstrates configuring Group Policy to enforce lockout thresholds
 
 ## Technologies Utlizied
 - Microsoft Azure
-- Windows Server
+- Windows Server 
 - Windows 10 
 - Active Directory
 - Group Policy Management
