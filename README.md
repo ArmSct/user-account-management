@@ -4,7 +4,7 @@
 This project demonstrates configuring Group Policy to enforce lockout thresholds, triggering account lockouts through failed login attempts, unlocking and resetting accounts, enabling/disabling users, and reviewing event logs on both the domain controller and client machine. A domain controller (DC-1) and client (Client-1) virtual machine are pre-configured for this lab.
 
 ## Technologies Utilized
-- Microsoft Azure
+- Microsoft Azure 
 - Windows Server 
 - Windows 10 
 - Active Directory
